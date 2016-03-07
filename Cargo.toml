@@ -1,0 +1,6 @@
+[package]
+name = "no-license-metadata"
+version = "0.1.0"
+authors = ["Kyle E. Mitchell <kyle@kemitchell.com>"]
+
+[dependencies]
